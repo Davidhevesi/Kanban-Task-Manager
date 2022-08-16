@@ -7,7 +7,8 @@ export default function Home() {
       <div className="flex flex-col justify-center bg-ebony-clay h-screen space-y-4">
         <div>
           <h1 className="text-regent-grey text-lg text-center font-semibold">
-            This board is empty. Create a new column to get started.
+            This board is empty. Create a new <br />
+            column to get started.
           </h1>
         </div>
         <div className="flex justify-center">
